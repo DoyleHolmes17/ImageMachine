@@ -39,6 +39,4 @@ public class CameraCaptureActivity extends AppCompatActivity {
             super.onActivityResult(requestCode, resultCode, data);
         }
     }
-
-
 }
